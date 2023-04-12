@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitHubN</string>
+    <string name="no_data_available">表示可能なデータがありません</string>
+    <string name="snackbar_update_body_metrics">身体情報を更新しました</string>
+    <string name="screen_title_body_metrics_history">記録</string>
+    <string name="screen_title_body_metrics">自分</string>
+</resources>
